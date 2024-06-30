@@ -13,24 +13,6 @@ This project implements a master-slave communication protocol over a serial link
 * GCC (GNU Compiler Collection)
 * Standard C Libraries
 
-## Setup
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/serial-communication-protocol.git
-    cd serial-communication-protocol
-    ```
-
-2. Compile the code:
-    ```sh
-    gcc -o serial_comm CBIBA-01.c
-    ```
-
-3. Run the application:
-    ```sh
-    ./serial_comm
-    ```
-
 ## Features
 
 **Master-Slave Communication**
@@ -71,10 +53,3 @@ This project implements a master-slave communication protocol over a serial link
 
 - Min Khant Soe Oke
 - Kaung Sithu
-
-## Course Information
-
-- **Course**: Communication Buses for Industrial and Building Automation
-- **Lecturer**: Dr. inż. Grzegorz Wróbel
-- **Academic Year**: 2023/2024
-- **Department**: WEAIiIB, University of Science and Technology in Krakowie
